@@ -11,6 +11,14 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords":[
+    "react",
+    "highlight",
+    "ctrl+f",
+    "pattern",
+    "text highlight",
+    "highlighter"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
