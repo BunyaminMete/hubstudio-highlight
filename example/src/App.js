@@ -1,10 +1,8 @@
 import React from 'react'
 
-import { ExampleComponent } from 'hubstudio-highlight'
-import 'hubstudio-highlight/dist/index.css'
-
+import { Deneme } from 'hubstudio-highlight'
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Deneme text="Create React Library Example 😄" search='creat' />
 }
 
 export default App
